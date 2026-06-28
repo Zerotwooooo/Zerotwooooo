@@ -10,9 +10,9 @@ Planning to be an Engineer, a Professor in Mathematics, Physics, and Astronomy w
 
 ### 🌌 The Intersection of Logic & Code
 
-*   **Systemic Problem Solving:** I approach software engineering through a scientific lens—breaking down massive real-world problems into clean, modular JavaScript and Node.js backend architectures.
-*   **Infrastructure & Optimization:** Experienced in working past real-world infrastructure bottlenecks, routing traffic via secure tunneling protocols, and maintaining data integrity across relational databases.
-*   **Continuous Discovery:** Fascinated by astrophysics, mathematical modeling, and orbital mechanics, which heavily inspire the rule engines and logical algorithms in my development projects.
+* **Systemic Problem Solving:** I approach software engineering through a scientific lens—breaking down massive real-world problems into clean, modular JavaScript and Node.js backend architectures.
+* **Infrastructure & Optimization:** Experienced in working past real-world infrastructure bottlenecks, routing traffic via secure tunneling protocols, and maintaining data integrity across relational databases.
+* **Continuous Discovery:** Fascinated by astrophysics, mathematical modeling, and orbital mechanics, which heavily inspire the rule engines and logical algorithms in my development projects.
 
 ---
 
@@ -25,17 +25,20 @@ Planning to be an Engineer, a Professor in Mathematics, Physics, and Astronomy w
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
+---
+
 ### 📈 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerotwooooo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-top-langs.vercel.制造/api/?username=Zerotwooooo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerotwooooo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=Zerotwooooo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📬 Connect With Me on:
 
-*   **Instagram:** (https://www.instagram.com/zero____002?igsh=MWhwZDhiYnlla3p5MQ==)
+* **Instagram:** [zero____002](https://www.instagram.com/zero____002?igsh=MWhwZDhiYnlla3p5MQ==)
 
 *"The universe cannot be read until we have learnt the language and become familiar with the characters in which it is written. It is written in mathematical language, and the letters are triangles, circles and other geometrical figures, without which means it is humanly impossible to comprehend a single word." — Galileo Galilei*
