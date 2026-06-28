@@ -1,8 +1,6 @@
 # Hi there, I'm Zero! 👋 
 
-I am a backend-focused full-stack developer who treats code as a practical extension of logic. Driven by a deep curiosity for **Mathematics, Physics, and Astronomy**, I build systems that bridge complex data structures with highly interactive user environments. 
-
-When I am not examining the mechanics of the universe, I am designing persistent automation, optimizing relational databases, and engineering seamless integrations between web interfaces and communication networks.
+I’m a learning backend full-stack developer who likes figuring out how things work. I’m a MASSIVE math, physics, and astronomy nerd, and I treat coding as a hobby, a way to play and make complex systems. When I’m not falling down an astrophysics rabbit hole or doing math for fun, I’m usually drowning in my own thoughts!
 
 ---
 
