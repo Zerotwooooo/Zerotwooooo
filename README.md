@@ -1,6 +1,6 @@
-# Hi there, I'm Zero! 👋 
+# Hi there, I'm Zero!
 
-I’m a learning backend full-stack developer who likes figuring out how things work. I’m a MASSIVE math, physics, and astronomy nerd, and I treat coding as a hobby, a way to play and make complex systems. When I’m not falling down an astrophysics rabbit hole or doing math for fun, I’m usually drowning in my own thoughts!
+I’m a hobbyist who likes figuring out how things work. I’m a MASSIVE math, physics, and astronomy nerd, and I treat coding as a hobby, a way to play and make complex systems. When I’m not falling down an astrophysics rabbit hole or doing math for fun, I’m usually drowning in my own thoughts!
 
 Planning to be an Engineer, a Professor in Mathematics, Physics, and Astronomy while using Coding to achieve that. And possibly a future Musician! (:
 
