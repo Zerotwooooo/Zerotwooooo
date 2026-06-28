@@ -38,4 +38,4 @@ When I am not examining the mechanics of the universe, I am designing persistent
 *   **Instagram:** (https://www.instagram.com/zero____002?igsh=MWhwZDhiYnlla3p5MQ==)
 *   **Project Showcase:** [CodeZero Web Platform](https://codezero.kesug.com)
 
-*"The universe is written in the language of mathematics." — Galileo Galilei*
+*"The universe cannot be read until we have learnt the language and become familiar with the characters in which it is written. It is written in mathematical language, and the letters are triangles, circles and other geometrical figures, without which means it is humanly impossible to comprehend a single word." — Galileo Galilei*
