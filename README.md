@@ -30,9 +30,9 @@ Planning to be an Engineer, a Professor in Mathematics, Physics, and Astronomy w
 ### 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerotwooooo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerotwooooo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="600" />
   <br><br>
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=Zerotwooooo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=Zerotwooooo&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Languages" width="600" />
 </p>
 
 ---
