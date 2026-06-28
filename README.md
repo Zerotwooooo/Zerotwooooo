@@ -26,8 +26,8 @@ When I am not examining the mechanics of the universe, I am designing persistent
 ### 📈 GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-top-langs.vercel.制造/api/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerotwooooo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-top-langs.vercel.制造/api/?username=Zerotwooooo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 ---
