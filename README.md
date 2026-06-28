@@ -34,7 +34,8 @@ When I am not examining the mechanics of the universe, I am designing persistent
 
 ### 📬 Connect With Me
 
-*   **GitHub:** [@Zerotwooooo](https://github.com/Zerotwooooo)
+*   **WhatsApp:** (https://wa.me/201069725202)
+*   **Instagram:** (https://www.instagram.com/zero____002?igsh=MWhwZDhiYnlla3p5MQ==)
 *   **Project Showcase:** [CodeZero Web Platform](https://codezero.kesug.com)
 
 *"The universe is written in the language of mathematics." — Galileo Galilei*
