@@ -2,6 +2,8 @@
 
 I’m a hobbyist who likes figuring out how things work. I’m a MASSIVE math, physics, and astronomy nerd, and I treat coding as a hobby, a way to play and make complex systems. When I’m not falling down an astrophysics rabbit hole or doing math for fun, I’m usually drowning in my own thoughts!
 
+I take Murphy's Law as my way to approach life. Murphy's Law doesn't mean that something bad will happen. It means that whatever can happen will happen.
+
 Planning to be an Engineer, a Professor in Mathematics, Physics, and Astronomy while using Coding to achieve that. And possibly a future Musician! (:
 
 ---
@@ -32,10 +34,8 @@ Planning to be an Engineer, a Professor in Mathematics, Physics, and Astronomy w
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect With Me on:
 
-*   **WhatsApp:** (https://wa.me/201069725202)
 *   **Instagram:** (https://www.instagram.com/zero____002?igsh=MWhwZDhiYnlla3p5MQ==)
-*   **Project Showcase:** [CodeZero Web Platform](https://codezero.kesug.com)
 
 *"The universe cannot be read until we have learnt the language and become familiar with the characters in which it is written. It is written in mathematical language, and the letters are triangles, circles and other geometrical figures, without which means it is humanly impossible to comprehend a single word." — Galileo Galilei*
